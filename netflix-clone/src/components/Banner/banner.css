@@ -1,0 +1,51 @@
+.banner-title{
+    position: relative;
+    top: 130px;
+    left: 10px;
+    font-size: 40px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+   
+    width: 30%;
+    border-radius: 10px;
+  
+}
+.banner-description{
+    position: relative;
+    top: 200px;
+    font-size: 20px;
+    font-weight: 400;
+    width: 50%;
+    color: white;
+   
+}
+.banner-button-play{
+    position: relative;
+    top: 200px;
+    width: 150px;
+    height: 50px;
+    left: 10px;
+   
+    font-size: 20px;
+    
+    border-color: transparent;
+}
+.banner-button{
+    position: relative;
+    top: 200px;
+    left: 20px;
+    width: 150px;
+    height: 50px;
+    
+    font-size: 20px;
+   
+    border-color: white;
+    margin:10px ;
+    color: white;
+    background-color: transparent;
+}
+.banner-button:hover{
+    background-color: white;
+    color: #000;
+    transition: .4s ease-in-out;
+}
